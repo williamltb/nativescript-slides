@@ -5,7 +5,9 @@
         "removeComments": true,
         "experimentalDecorators": true,
         "sourceMap": true,
-        "declaration": true
+        "declaration": true,
+        "outDir": "dist/package",
+        "rootDir": "./"
     },
     "files": [
         "demo/node_modules/tns-core-modules/tns-core-modules.d.ts",
